@@ -4,7 +4,7 @@ Welcome to my MATLAB portfolio.
 
 ## About Me
 
-I am Muhammed Nasid, an M.Sc. Applied Mathematics graduate.
+I am Muhammed Nasid K T, an M.Sc. Applied Mathematics graduate.
 
 My interests include:
 - MATLAB Programming
