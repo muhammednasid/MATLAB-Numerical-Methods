@@ -1,30 +1,45 @@
-# MATLAB Numerical Methods
+# MATLAB Numerical Methods Portfolio
 
-Welcome to my MATLAB portfolio.
+## Welcome!
 
-## About Me
+Hello! I'm **Muhammed Nasid K T**, an M.Sc. Applied Mathematics graduate with experience in:
 
-I am Muhammed Nasid K T, an M.Sc. Applied Mathematics graduate.
-
-My interests include:
 - MATLAB Programming
 - Python Programming
-- Numerical Methods
-- Partial Differential Equations
-- Scientific Computing
 - LaTeX Documentation
+- Numerical Methods
+- Scientific Computing
+- Partial Differential Equations
+- Fluid Dynamics
+
+## About This Repository
+
+This repository contains MATLAB implementations of numerical methods and scientific computing projects.
 
 ## Projects
 
-This repository will include:
-
-- Finite Difference Method
-- Newton-Raphson Method
+### Numerical Methods
 - Bisection Method
+- Newton-Raphson Method
+- Secant Method
 - Runge-Kutta Methods
+- Euler Method
+
+### Linear Algebra
 - LU Decomposition
 - Gauss-Seidel Method
-- Laplace Equation Solver
-- Heat Equation Solver
+- Jacobi Method
 
-Thank you for visiting my repository.
+### Partial Differential Equations
+- Heat Equation (Finite Difference Method)
+- Laplace Equation Solver
+- Poisson Equation Solver
+
+### Coming Soon
+- Fractional Differential Equations
+- Fluid Dynamics Simulations
+- Optimization Algorithms
+
+## Contact
+
+GitHub: https://github.com/muhammednasid
