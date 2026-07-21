@@ -1,33 +1,23 @@
 # 1D Heat Equation using Finite Difference Method
 
 ## Description
+This project solves the one-dimensional heat equation using the Explicit FTCS Finite Difference Method.
 
-This project solves the one-dimensional heat equation using the Explicit Finite Difference Method (FTCS).
-
-## Governing Equation
-
-The one-dimensional heat equation is
-
+## Mathematical Model
 du/dt = α d²u/dx²
 
-where
+## Numerical Method
+- Explicit FTCS Scheme
+- Uniform grid
+- Dirichlet boundary conditions
 
-- u(x,t) = Temperature
-- α = Thermal diffusivity
+## MATLAB Implementation
+The solution is computed using finite difference approximations in space and time.
 
-### Boundary Conditions
+## Results
+The numerical solution shows heat diffusion over time.
 
-- u(0,t)=0
-- u(π,t)=0
-
-### Initial Condition
-
-u(x,0)=x(π−x)
-
-### Language
-
-- MATLAB
-
-### Author
-
-Muhammed Nasid K T
+## Future Improvements
+- Crank–Nicolson Method
+- Implicit Scheme
+- Non-uniform grids
