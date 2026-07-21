@@ -11,9 +11,9 @@ This project solves the two-dimensional Laplace equation using the Finite Differ
 ## Boundary Conditions
 
 - Left Boundary = 100
-- Right Boundary = 0
+- Right Boundary = 50
 - Top Boundary = 75
-- Bottom Boundary = 50
+- Bottom Boundary = 25
 
 ## Numerical Method
 
