@@ -53,11 +53,26 @@ GitHub: https://github.com/muhammednasid
 
 📁 Folder: `Heat-Equation-FDM`
 
----
+# 2D Heat Equation using Finite Difference Method
 
+## Description
+
+This project solves the two-dimensional heat equation using the Explicit Finite Difference Method (FTCS).
+
+## Features
+
+- MATLAB implementation
+- Explicit finite difference scheme
+- 2D temperature diffusion
+- Surface visualization
+- Colorbar representation
+
+📁 Folder: `Heat-Equation-2D-FDM`
+
+----
 More projects coming soon...
 
-- 2D Heat Equation
+
 - Laplace Equation Solver
 - Poisson Equation Solver
 - Fractional Heat Equation
