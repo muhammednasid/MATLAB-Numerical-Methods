@@ -4,14 +4,16 @@
 
 This project solves the one-dimensional heat equation using the Explicit Finite Difference Method (FTCS).
 
-### Governing Equation
+## Governing Equation
 
-\[
-\frac{\partial u}{\partial t}
-=
-\alpha
-\frac{\partial^2 u}{\partial x^2}
-\]
+The one-dimensional heat equation is
+
+du/dt = α d²u/dx²
+
+where
+
+- u(x,t) = Temperature
+- α = Thermal diffusivity
 
 ### Boundary Conditions
 
