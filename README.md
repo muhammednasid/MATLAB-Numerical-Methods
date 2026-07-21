@@ -55,11 +55,11 @@ GitHub: https://github.com/muhammednasid
 
 ### 2. 2D Heat Equation using Finite Difference Method
 
-## Description
+#### Description
 
 This project solves the two-dimensional heat equation using the Explicit Finite Difference Method (FTCS).
 
-## Features
+#### Features
 
 - MATLAB implementation
 - Explicit finite difference scheme
