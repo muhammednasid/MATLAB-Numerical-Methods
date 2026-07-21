@@ -53,7 +53,7 @@ GitHub: https://github.com/muhammednasid
 
 📁 Folder: `Heat-Equation-FDM`
 
-# 2D Heat Equation using Finite Difference Method
+### 2. 2D Heat Equation using Finite Difference Method
 
 ## Description
 
