@@ -43,3 +43,24 @@ This repository contains MATLAB implementations of numerical methods and scienti
 ## Contact
 
 GitHub: https://github.com/muhammednasid
+
+## 📂 Projects
+
+### 1. 1D Heat Equation using Finite Difference Method
+- MATLAB implementation of the Explicit FTCS scheme
+- Stability condition verification
+- Numerical solution of the one-dimensional heat equation
+
+📁 Folder: `Heat-Equation-FDM`
+
+---
+
+More projects coming soon...
+
+- 2D Heat Equation
+- Laplace Equation Solver
+- Poisson Equation Solver
+- Fractional Heat Equation
+- Wave Equation
+- Numerical Integration
+- Optimization Algorithms
