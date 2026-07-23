@@ -32,18 +32,18 @@ where
 
 The initial displacement is chosen as a Gaussian pulse centered in the domain.
 
-\[
+$$
 u(x,y,0)=
 \exp\left(
 -40\left[(x-0.5)^2+(y-0.5)^2\right]
 \right)
-\]
+$$
 
 Initial velocity:
 
-\[
+$$
 \frac{\partial u}{\partial t}(x,y,0)=0
-\]
+$$
 
 ---
 
