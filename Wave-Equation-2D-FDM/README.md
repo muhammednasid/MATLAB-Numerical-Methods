@@ -10,22 +10,16 @@ The wave equation models the propagation of waves such as vibrations, sound wave
 
 ## Governing Equation
 
-\[
-\frac{\partial^2 u}{\partial t^2}
-=
-c^2
-\left(
-\frac{\partial^2 u}{\partial x^2}
-+
-\frac{\partial^2 u}{\partial y^2}
-\right)
-\]
+The two-dimensional wave equation is
+
+```
+∂²u/∂t² = c² (∂²u/∂x² + ∂²u/∂y²)
+```
 
 where
 
-- \(u(x,y,t)\) = Wave amplitude
-- \(c\) = Wave propagation speed
-
+- **u(x,y,t)** = Wave amplitude
+- **c** = Wave propagation speed
 ---
 
 ## Initial Conditions
